@@ -22,6 +22,12 @@ Building practical AI products — LLM-powered apps, autonomous agents, automati
 - 🎯 Shipping clean, useful, production-ready tools
 - 🤝 Open to collaboration on AI & automation projects
 
+## Featured
+
+| Project | What it is |
+|---|---|
+| **[ai-kit](https://github.com/sakthikolanji06-boop/ai-kit)** | Curated AI tooling bundle — LLM gateway, local router, opencode setup. [Download v1.0.0](https://github.com/sakthikolanji06-boop/ai-kit/releases/tag/v1.0.0) |
+
 ## Tech Stack
 
 **Languages**
