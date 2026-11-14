@@ -26,7 +26,7 @@ Building practical AI products — LLM-powered apps, autonomous agents, automati
 
 | Project | What it is |
 |---|---|
-| **[MozhiKit](https://github.com/sakthikolanji06-boop/MozhiKit)** | A curated, reproducible AI toolkit — LLM gateway, local router, opencode setup. [Download v1.0.0](https://github.com/sakthikolanji06-boop/MozhiKit/releases/tag/v1.0.0) |
+| **[FreeCoder MediKit](https://github.com/sakthikolanji06-boop/FreeCoderMediKit)** | A curated, reproducible AI toolkit — LLM gateway, local router, opencode setup. [Download v1.0.0](https://github.com/sakthikolanji06-boop/FreeCoderMediKit/releases/tag/v1.0.0) |
 
 ## Tech Stack
 
